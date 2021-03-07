@@ -6,5 +6,5 @@ const {add,sub,mult,div} = require ("./funktion");
 console.log(add(x,y),"Topla");
 console.log(sub(x,y),"Cıkar");
 console.log(mult(x,y),"Carp");
-console.log(div(x,y),"Böl");
+console.log(div(x,y),"Böl");//dali
 
