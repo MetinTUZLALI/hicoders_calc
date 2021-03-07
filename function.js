@@ -1,4 +1,6 @@
-
+/*
+4 işlemi barındıran fonksiyonlar burada yer almaktadır.
+*/
 
 function add(x,y) {
     let sum = x+y;
@@ -23,4 +25,5 @@ function div(x,y) {
     return div;
 }
 
-modul.export={add,sub,mult,div};
+module.exports={add,sub,mult,div};
+
